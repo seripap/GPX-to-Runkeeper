@@ -4,9 +4,9 @@ This app mass dumps GPX files tailored from [Matt S.](https://mattstuehler.com/l
 
 Because of this:
 
-![RK Interface SUX](http://f.cl.ly/items/3c3c1s3B0j2V0f3J0o2E/Image%202014-05-09%20at%2011.17.01%20PM.png);
+![RK Interface SUX](http://f.cl.ly/items/3c3c1s3B0j2V0f3J0o2E/Image%202014-05-09%20at%2011.17.01%20PM.png)
 
-1. [Register for Runkeeper Partners](runkeeper.com/partner/) and generate a new app.
+1. [Register for Runkeeper Partners](http://runkeeper.com/partner/) and generate a new app.
 2. Export any GPX files you want dumped to the **/data** folder
 3. Run the script via browser or cl.
 
